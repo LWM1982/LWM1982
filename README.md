@@ -23,8 +23,10 @@
 
 
 [<img align="left" alt="LevonMcGregor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://linkedin.com/in/levonmcgregor
+[twitter]: https://x.com/LWM_data
 
 
 
