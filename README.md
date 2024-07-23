@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects from the LSE Career Accelerator 2024:</h2>
   
-<b> [Asignement: Predicting Future Outcomes]() </b>
+<b> [Asignement: Predicting Future Outcomes](https://github.com/LWM1982/Predicting_future_outcomes) </b>
   - [***]
     
 <b>[Diagnostic Analysis using Python](https://github.com/LWM1982/NHS_Diagnostic_Analysis_Python-)</b>
