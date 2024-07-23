@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Projects from the LSE Career Accelerator 2024:</h2>
   
-<b>[Project 1]</b>
+<b> [Asignement: Predicting Future Outcomes]() </b>
   - [***]
     
-<b>[Project 2]</b>
+<b>[Diagnostic Analysis using Python]()</b>
   - [***]
     
 <b>[Project 3]</b>
