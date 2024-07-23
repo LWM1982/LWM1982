@@ -5,7 +5,7 @@
 <b> [Asignement: Predicting Future Outcomes]() </b>
   - [***]
     
-<b>[Diagnostic Analysis using Python]()</b>
+<b>[Diagnostic Analysis using Python](https://github.com/LWM1982/NHS_Diagnostic_Analysis_Python-)</b>
   - [***]
     
 <b>[Project 3]</b>
