@@ -2,21 +2,18 @@
 
 <h2>👨‍💻 Projects from the LSE Career Accelerator 2024:</h2>
   
-<b> [Asignement: Predicting Future Outcomes](https://github.com/LWM1982/Predicting_future_outcomes) </b>
-  - [***]
+- <b> [Asignement: Predicting Future Outcomes](https://github.com/LWM1982/Predicting_future_outcomes) </b>
+
     
-<b>[Diagnostic Analysis using Python](https://github.com/LWM1982/NHS_Diagnostic_Analysis_Python-)</b>
-  - [***]
+- <b>[Diagnostic Analysis using Python](https://github.com/LWM1982/NHS_Diagnostic_Analysis_Python-)</b>
+
     
-<b>[Employer Project: Cycling in London](https://github.com/LWM1982/-Employer_Project_-_Thoughtworks_Infrastructure)</b>
-  - [***]
-    
-<b>[Project 4]</b>
-  - [***]
+- <b>[Employer Project: Cycling in London](https://github.com/LWM1982/-Employer_Project_-_Thoughtworks_Infrastructure)</b>
+
     
 <h2>📺 Personal Statement YouTube Video</h2>
 
-  - [***]
+- <b>[Click here for personal statement ](https://github.com/LWM1982/YouTube_Link)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
