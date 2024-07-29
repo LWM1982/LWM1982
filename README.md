@@ -25,7 +25,7 @@
 [linkedin]: https://linkedin.com/in/levonmcgregor
 [twitter]: https://x.com/LWM_data
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LWM1982)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
