@@ -19,8 +19,8 @@ I'm a data analyst. I am excited to find singals in the noise to enable organisa
 
 - <b>[Click here for personal statement ](https://github.com/LWM1982/YouTube_Link)</b>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JcE8oqyFfg8
+" target="_blank"><img src="http://img.youtube.com/vi/JcE8oqyFfg8/0.jpg" 
 alt="KhGWbt1dAKQ" width="240" height="180" border="10" /></a>
 
 https://www.youtube.com/watch?v=KhGWbt1dAKQ
