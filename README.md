@@ -2,6 +2,8 @@
 
 <h1>Hi, I'm Levon! <br/></h1>
 
+I'm a data analyst. I am excited to find singals in the noise to enable organisations to make better, data informed decisions. My background in Sales Development leadership has given me solid business acumen. I enjoy making the complex simple : do message me if you would like to epxlore more. 
+
 <h2>👨‍💻 Projects from the LSE Career Accelerator 2024:</h2>
   
 - <b> [Asignement: Predicting Future Outcomes](https://github.com/LWM1982/Predicting_future_outcomes) </b>
