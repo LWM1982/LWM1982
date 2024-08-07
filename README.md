@@ -17,13 +17,10 @@ I'm a data analyst. I am excited to find singals in the noise to enable organisa
     
 <h2>📺 Personal Statement YouTube Video</h2>
 
-- <b>[Click here for personal statement ](https://github.com/LWM1982/YouTube_Link)</b>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JcE8oqyFfg8
 " target="_blank"><img src="http://img.youtube.com/vi/JcE8oqyFfg8/0.jpg" 
 alt="KhGWbt1dAKQ" width="240" height="180" border="10" /></a>
 
-https://www.youtube.com/watch?v=KhGWbt1dAKQ
 
 <h2> 🤳 Connect with me:</h2>
 
