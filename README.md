@@ -1,4 +1,4 @@
-![xxx](https://github.com/LWM1982/LWM1982/blob/main/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
+![](https://github.com/LWM1982/LWM1982/blob/main/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
 
 <h1>Hi, I'm Levon! <br/></h1>
 
