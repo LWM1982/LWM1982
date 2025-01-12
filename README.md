@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Levon! <br/></h1>
 
-I'm a data analyst. I am excited to find signals in the noise to enable organisations to make better, data informed decisions. After 20+ years in SaaS sales and sales management, I decided to pivot into Data Analytics. I am writing to express my interest in work experience placement opportunities to further apply my knowledge and gain valuable real world experience. Do message me if you would like to epxlore more. 
+I'm a data analyst. I am excited to find signals in the noise to enable organisations to make better, data informed decisions. After 20+ years in SaaS sales and sales management, I decided to pivot into Data Analytics. I am writing to express my interest in work experience placement opportunities to further apply my knowledge and gain valuable real world experience. Do message me if you would like to explore more how my experience can add value to your business objectives. We could discuss over a brief meeting or a coffee?
 
 <h2>👨‍💻 Projects from the LSE Career Accelerator 2024:</h2>
   
